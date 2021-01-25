@@ -7,3 +7,4 @@
 |67||Easy|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/add_binary.java)||
 |455||Easy|[&#42;&#42; Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/assign_cookies.java)||
 |1657|해시|Medium|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/determine_two_strings.java)||
+|1679|해시|Medium|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/ksum_pair.java)||
