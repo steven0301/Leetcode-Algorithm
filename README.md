@@ -17,6 +17,7 @@
 |463||Easy|[&#42; Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/island_perimeter.java)||
 |575||Easy|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/distribute_candies.java)||
 |645||Easy|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/set_mismatch.java)||
+|970||Easy|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/powerful_integers.java)||
 |1512||Easy|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/number_of_good_pairs.java)||
 |1657|해시|Medium|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/determine_two_strings.java)||
 |1679|해시|Medium|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/ksum_pair.java)||
