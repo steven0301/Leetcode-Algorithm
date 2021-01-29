@@ -15,6 +15,7 @@
 |455||Easy|[&#42;&#42; Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/assign_cookies.java)||
 |500||Easy|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Java: 정규표현식](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/keyboard_row1.java)<br/>[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/keyboard_row2.java)||
 |463||Easy|[&#42; Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/island_perimeter.java)||
+|575||Easy|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/distribute_candies.java)||
 |645||Easy|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/set_mismatch.java)||
 |1657|해시|Medium|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/determine_two_strings.java)||
 |1679|해시|Medium|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/ksum_pair.java)||
