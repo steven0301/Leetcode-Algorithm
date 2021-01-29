@@ -17,6 +17,7 @@
 |463|해시|Easy|[&#42; Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/island_perimeter.java)||
 |575|해시|Easy|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/distribute_candies.java)||
 |594|해시|Easy|[&#42; Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/longest_harmonious_subsequence1.java)<br/>[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/longest_harmonious_subsequence2.java)||
+|599|해시|Easy|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/minimum_index_of_two_lists.java)||
 |645|해시|Easy|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/set_mismatch.java)||
 |970|해시|Easy|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/powerful_integers.java)||
 |1512|해시|Easy|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/number_of_good_pairs.java)||
