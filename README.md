@@ -10,6 +10,7 @@
 |217|해시|Easy|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/contains_duplicate.java)||
 |242|해시|Easy|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/valid_anagram.java)||
 |290|해시|Easy|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/word_pattern.java)||
+|409|해시|Easy|[Longest Pattern](https://leetcode.com/problems/longest-palindrome/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/longest_palindrome.java)||
 |455||Easy|[&#42;&#42; Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/assign_cookies.java)||
 |645||Easy|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/set_mismatch.java)||
 |1657|해시|Medium|[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/determine_two_strings.java)||
