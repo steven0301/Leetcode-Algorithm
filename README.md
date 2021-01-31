@@ -21,6 +21,7 @@
 |645|해시|Easy|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/set_mismatch.java)||
 |690|해시,DFS|Easy|[&#42; Employee Importance](https://leetcode.com/problems/employee-importance/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/employee_importance.java)||
 |720|해시,정렬|Easy|[&#42;&#42; Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/longest_word_in_dictionary.java)||
+|953|해시|Easy|[&#42; Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/verifying_an_alien_dictionary.java)||
 |961|해시|Easy|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/n_repeated_element1.java)<br/>[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/n_repeated_element2.java)||
 |970|해시|Easy|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/powerful_integers.java)||
 |1512|해시|Easy|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/number_of_good_pairs.java)||
