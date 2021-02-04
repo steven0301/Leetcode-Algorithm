@@ -9,6 +9,7 @@
 |67||Easy|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/add_binary.java)||
 |205|해시|Easy|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/isomorphic_strings1.java)<br/>[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/isomorphic_strings2.java)||
 |217|해시|Easy|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/contains_duplicate.java)||
+|228|배열|Easy|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/summary_ranges.java)||
 |242|해시|Easy|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/valid_anagram.java)||
 |290|해시|Easy|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/word_pattern.java)||
 |349|해시|Easy|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/intersection_of_two_arrays_solution.java)<br/>[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/intersection_of_two_arrays.java)||
