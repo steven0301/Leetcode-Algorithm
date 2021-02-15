@@ -37,6 +37,7 @@
 |1394|배열,해시|Easy|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/find_lucky_integer_in_an_array.java)||
 |1436|해시|Easy|[Destination City](https://leetcode.com/problems/destination-city/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/destination_city.java)||
 |1470|배열|Easy|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/shuffle_the_array.java)||
+|1408|배열,해시|Easy|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/string_matching_in_an_array.java)||
 |1512|해시|Easy|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/number_of_good_pairs.java)||
 |1539|해시|Easy|[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/kth_missing_positive_number.java)||
 |1550|배열|Easy|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/three_consecutive_odds.java)||
