@@ -30,6 +30,7 @@
 |690|해시,DFS|Easy|[&#42; Employee Importance](https://leetcode.com/problems/employee-importance/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/employee_importance.java)||
 |720|해시,정렬|Easy|[&#42;&#42; Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/longest_word_in_dictionary.java)||
 |791|String,정렬|Medium|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/custom_sort_string.java)||
+|804|String|Easy|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/unique_morse_code_words.java)||
 |890|String|Medium|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/find_and_replace_pattern.java)||
 |917|String|Easy|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/reverse_only_letters.java)||
 |953|해시|Easy|[&#42; Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/verifying_an_alien_dictionary.java)||
