@@ -49,6 +49,7 @@
 |1436|해시|Easy|[Destination City](https://leetcode.com/problems/destination-city/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/destination_city.java)||
 |1446|String|Easy|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/consecutive_characters.java)||
 |1470|배열|Easy|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/shuffle_the_array.java)||
+|1496|배열|Easy|[&#42; Path Crossing](https://leetcode.com/problems/path-crossing/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/path_crossing.java)||
 |1512|해시|Easy|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/number_of_good_pairs.java)||
 |1528|배열|Easy|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Java : array](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/shuffle_string_array.java)<br/>[Java : comparable](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/shuffle_string_comparable.java)||
 |1539|해시|Easy|[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/kth_missing_positive_number.java)||
