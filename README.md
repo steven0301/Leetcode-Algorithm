@@ -20,6 +20,7 @@
 |455|해시|Easy|[&#42;&#42; Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/assign_cookies.java)||
 |463|해시|Easy|[&#42; Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/island_perimeter.java)||
 |500|해시|Easy|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Java: 정규표현식](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/keyboard_row1.java)<br/>[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/keyboard_row2.java)||
+|520|String|Easy|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/detect_capital.java)||
 |557|String|Easy|[Reverse Words in a String3](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/reverse_words_in_a_string3.java)||
 |551|String|Easy|[Student Attendance Record i](https://leetcode.com/problems/student-attendance-record-i/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/student_attendance_record_i.java)||
 |575|해시|Easy|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/distribute_candies.java)||
