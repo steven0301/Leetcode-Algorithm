@@ -52,6 +52,7 @@
 |1422|String|Easy|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/maximum_score_after_splitting_a_string.java)||
 |1436|해시|Easy|[Destination City](https://leetcode.com/problems/destination-city/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/destination_city.java)||
 |1446|String|Easy|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/consecutive_characters.java)||
+|1455|String|Easy|[Check if a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.java)||
 |1470|배열|Easy|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/shuffle_the_array.java)||
 |1496|배열|Easy|[&#42; Path Crossing](https://leetcode.com/problems/path-crossing/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/path_crossing.java)||
 |1512|해시|Easy|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/number_of_good_pairs.java)||
