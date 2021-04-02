@@ -5,6 +5,7 @@
 |11|배열|Medium|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/container_with_most_water.java)||
 |15|해시|Medium|[3Sum](https://leetcode.com/problems/3sum/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/sum3.java)||
 |16|배열|Medium|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/sum3_closest.java)||
+|17|배열|Medium|[Letter Combination of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java : Backtracking](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/letter_combination_of_a_phone_number.java)||
 |18|해시|Medium|[&#42;&#42; 4Sum](https://leetcode.com/problems/4sum/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/sum4.java)|[Java : 시간초과](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-reference/sum4.java)|
 |20|스택|Easy|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/valid_parentheses.java)||
 |33|배열|Medium|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java : 완전탐색](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/search_in_rotated_sorted_array.java)||
