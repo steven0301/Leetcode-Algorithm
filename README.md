@@ -14,8 +14,8 @@
 |53|배열|Easy|[&#42; Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java : Greedy](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/maximum_subarray_greedy.java)<br/>[Java : DP](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/maximum_subarray_dp.java)||
 |58|String|Easy|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/length_of_last_word.java)||
 |62|배열|Medium|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[&#42; Java: Math.round](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/unique_paths.java)||
-|66||Easy|[&#42; Plus One : idea](https://leetcode.com/problems/plus-one/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/plus_one.java)||
-|67||Easy|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/add_binary.java)||
+|66|배열|Easy|[&#42; Plus One : idea](https://leetcode.com/problems/plus-one/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/plus_one.java)||
+|67|String|Easy|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/add_binary.java)||
 |118|배열|Easy|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/pascals_triangle.java)||
 |121|배열|Easy|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/best_time_to_buy_and_sell_stock.java)||
 |205|해시|Easy|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/isomorphic_strings1.java)<br/>[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/isomorphic_strings2.java)||
@@ -47,6 +47,7 @@
 |804|String|Easy|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/unique_morse_code_words.java)||
 |832|배열|Easy|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/flipping_an_image.java)||
 |890|String|Medium|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/find_and_replace_pattern.java)||
+|905|배열|Easy|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/sort_array_by_parity.java)||
 |917|String|Easy|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/reverse_only_letters.java)||
 |953|해시|Easy|[&#42; Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/verifying_an_alien_dictionary.java)||
 |961|해시|Easy|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/n_repeated_element1.java)<br/>[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/n_repeated_element2.java)||
