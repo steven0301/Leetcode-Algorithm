@@ -54,6 +54,7 @@
 |804|String|Easy|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/unique_morse_code_words.java)||
 |832|배열|Easy|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/flipping_an_image.java)||
 |890|String|Medium|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/find_and_replace_pattern.java)||
+|896|String|Easy|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/monotonic_array.java)||
 |905|배열|Easy|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/sort_array_by_parity.java)||
 |917|String|Easy|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/reverse_only_letters.java)||
 |953|해시|Easy|[&#42; Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/verifying_an_alien_dictionary.java)||
