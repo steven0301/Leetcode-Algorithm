@@ -126,3 +126,4 @@
 |1809|Array|Easy|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros//)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/duplicate_zeros.java)||
 |1812|String|Easy|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/determine_color_of_a_chessboard_sqaure.java)||
 |1816|String|Easy|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/truncate_sentence.java)||
+|1837|String|Easy|[Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/sum_of_digits_in_base_k.java)||
