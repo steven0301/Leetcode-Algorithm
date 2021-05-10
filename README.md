@@ -68,6 +68,7 @@
 |977|배열|Easy|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/squares_of_a_sorted_array.java)||
 |989|배열|Easy|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Java : BigDecimal](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/add_to_array_form_of_integer.java)||
 |1018|배열|Easy|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)|[Java : BigDecimal](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/binary_prefix_divisible_by_5.java)||
+|1047|Stack|Easy|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/remove_all_adjacent_duplicates_in_string.java)||
 |1051|배열|Easy|[Height Checker](https://leetcode.com/problems/height-checker/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/heigth_checker.java)||
 |1108|String|Easy|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/defanging_an_ip_address.java)||
 |1122|배열|Easy|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/relative_sort_array.java)||
