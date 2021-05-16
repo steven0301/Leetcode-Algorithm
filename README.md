@@ -137,3 +137,4 @@
 |1816|String|Easy|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/truncate_sentence.java)||
 |1832|String|Easy|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/check_if_the_sentence_is_pangram.java)||
 |1837|String|Easy|[Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/sum_of_digits_in_base_k.java)||
+|1859|String|Easy|[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/sorting_the_sentence.java)||
