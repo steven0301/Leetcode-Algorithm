@@ -57,6 +57,7 @@
 |791|String,정렬|Medium|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/custom_sort_string.java)||
 |804|String|Easy|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/unique_morse_code_words.java)||
 |832|배열|Easy|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/flipping_an_image.java)||
+|852|배열|Easy|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/peak_index_in_a_mountain_array.java)||
 |890|String|Medium|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/find_and_replace_pattern.java)||
 |896|String|Easy|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/monotonic_array.java)||
 |905|배열|Easy|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/sort_array_by_parity.java)||
