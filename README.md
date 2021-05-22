@@ -135,6 +135,7 @@
 |1768|String|Easy|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/merge_string_arternately.java)||
 |1773|String|Easy|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/count_itmes_matching_a_rule.java)||
 |1809|Array|Easy|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros//)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/duplicate_zeros.java)||
+|1800|배열|Easy|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/maximum_ascending_subarray_sum.java)||
 |1812|String|Easy|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/determine_color_of_a_chessboard_sqaure.java)||
 |1816|String|Easy|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/truncate_sentence.java)||
 |1832|String|Easy|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Java](https://github.com/steven0301/Leetcode-Algorithm/blob/master/java-correct/check_if_the_sentence_is_pangram.java)||
